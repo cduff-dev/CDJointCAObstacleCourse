@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\charl\\documents\\cdjointcaobstaclecourse\\cdobstaclecourse\\intermediate\\source\\cdobstaclecourse.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\charl\\documents\\cdjointcaobstaclecourse\\cdobstaclecourse\\intermediate\\build\\win64\\cdobstaclecourse\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\charl\\documents\\cdjointcaobstaclecourse\\cdobstaclecourse\\intermediate\\build\\win64\\unrealgame\\development\\cdobstaclecourse\\definitions.cdobstaclecourse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
