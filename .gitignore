@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CDObstacleCourse/Binaries/Win64/CDObstacleCourse.pdb
+CDObstacleCourse/Saved/StagedBuilds/Windows/CDObstacleCourse/Binaries/Win64/CDObstacleCourse.pdb
+CDObstacleCourse/Saved/StagedBuilds/Windows/CDObstacleCourse/Content/Paks/CDObstacleCourse-Windows.ucas
