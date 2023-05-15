@@ -166,9 +166,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "880EFB2C42A19371CC9D00DFE21F2193BB171989",
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
 			"Assets": [
-				"/Engine/MapTemplates/Materials/BasicAsset02"
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -227,6 +227,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -236,12 +242,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -309,6 +309,12 @@
 			"ShaderMapHash": "46EB132508652EEF803B632582B9EAF3E3663D5D",
 			"Assets": [
 				"/Game/Wall/WallMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0B6AF89748873305631ACE9CF61E131CC225C649",
+			"Assets": [
+				"/Game/UI/arrow_Mat"
 			]
 		},
 		{
@@ -740,6 +746,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9C0DB7FAE6CA4591C199E959D6323638DA5D1965",
+			"Assets": [
+				"/Game/Particles/Particle2",
+				"/Game/Particles/Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "E6BBB8FB486691AADEA74B4853DE9D89F1A66E90",
+			"Assets": [
+				"/Game/PPS/M_Thermal"
+			]
+		},
+		{
 			"ShaderMapHash": "878A9C8466B209DCC78B47995209D3A848964428",
 			"Assets": [
 				"/Game/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT",
@@ -815,12 +834,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F7A8346D2A21043AE1119A579CB7F31FA02A32E8",
-			"Assets": [
-				"/Game/UI/MiniMapRenderTarget_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "4CD56B35B8993732AAB93F265D087659348E7C9F",
 			"Assets": [
 				"/Game/PPS/M_Xray",
@@ -888,12 +901,6 @@
 			"ShaderMapHash": "87147604A686C7EECD7635DC1CCC92595EB58889",
 			"Assets": [
 				"/Game/PN_Pandanus/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "0B6AF89748873305631ACE9CF61E131CC225C649",
-			"Assets": [
-				"/Game/UI/arrow_Mat"
 			]
 		},
 		{
@@ -1014,15 +1021,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F77DE9CEB588610EE674380E2F15129837CE3941",
+			"ShaderMapHash": "F78C96A3ADFC0CD2096856C00A0FF34F0A4A29CD",
 			"Assets": [
-				"/Game/Level/MainMap"
+				"/Game/UI/MinimapBorder"
 			]
 		},
 		{
-			"ShaderMapHash": "6051EB257C05070536951E99F2CDC17A77D8EB95",
+			"ShaderMapHash": "15BB726A8586C3DDBB7EAC12A38D8E9A092E86FB",
 			"Assets": [
-				"/Game/Level/MainMap"
+				"/Game/UI/MiniMapRenderTarget_Mat"
 			]
 		},
 		{
@@ -1095,6 +1102,18 @@
 			"ShaderMapHash": "B0D423E651207E57126FFF3BD194E6456B418EC0",
 			"Assets": [
 				"/Water/Materials/Brushes/CanvasDrawing"
+			]
+		},
+		{
+			"ShaderMapHash": "F77DE9CEB588610EE674380E2F15129837CE3941",
+			"Assets": [
+				"/Game/Level/MainMap"
+			]
+		},
+		{
+			"ShaderMapHash": "6051EB257C05070536951E99F2CDC17A77D8EB95",
+			"Assets": [
+				"/Game/Level/MainMap"
 			]
 		}
 	]
